@@ -1,4 +1,4 @@
-# Neural Network (MLP) from scratch
+# Neural Network (MLP) from scratch using numpy
 
 Implementing and training a Neural Network (multi-layer perceptron) from scratch using only numpy, to identify handwritten digits (MNIST dataset).
 
